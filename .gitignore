@@ -2,4 +2,5 @@ venv
 docs
 .env
 .env.development
-development-compose.yaml
+dev*.*
+__pycache__
