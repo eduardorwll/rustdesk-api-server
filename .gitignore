@@ -1,3 +1,5 @@
 venv
 docs
 .env
+.env.development
+development-compose.yaml
